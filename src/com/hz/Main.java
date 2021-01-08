@@ -50,6 +50,7 @@ public class Main {
 
         students.put("marie", new Marie());
         students.put("kees", new Kees());
+        students.put("pim", new Pim());
 
         return students;
     }
